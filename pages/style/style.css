@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(103, 173, 173);
+    margin: 0PX;
+    font-family: poppinsbold;
+    max-width: 10000px;
+    max-height: max-content;
+}
+
+
+#container{
+    background-image: url(/pages/img/fundo2.jpg);
+    background-size: 1570;
+    padding: 30px;
+    width: 1600px;
+    
+    
+}
+#header{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+}
+img{
+    width: 200px;
+    padding: 10px;
+}
+#title{
+    font-size: 40px;
+}
+button{
+    padding: 8px 16px;
+    border: none;
+}
+h1{
+    width: 200px;
+}
+p{
+    font-size: 50px;
+    color: #05020c;
+}
+main{ 
+    width: 1600px;
+    margin: auto;
+    box-shadow: 10px 10px 15px black;
+}
+#subtitle{
+    font-size: 25px;
+}
